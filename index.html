@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/747561/1132170/?tiles=streets&amp;showguide=false&amp;triponly=1132170" frameBorder="0" id="trip-map-iframe" onload="iframeLoaded()" width="800" height="0" style="margin-bottom: 10px;"></iframe>
+<p style="font-size: 13px;color:#333;margin-bottom: 10px;"><a href="https://www.travellerspoint.com/travel-maps.cfm">Create your own travel map</a></p>
+
 {% for post in paginator.posts %}
 <div class="posts">
   <h1>
@@ -34,3 +37,17 @@ title: Home
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
+
+<script type="text/javascript">
+  function iframeLoaded() {
+    var iFrameID = document.getElementById("trip-map-iframe");
+
+    if (iFrameID && screen) {
+      let screenWidth = screen.width;
+
+      iFrameID.width = `${screenWidth - 400}px`;
+      iFrameID.height = "600px";
+      iFrameID.style.marginLeft = "-200px";
+    }
+  }
+</script>
