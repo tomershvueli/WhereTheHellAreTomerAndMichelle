@@ -115,7 +115,13 @@ hr {
 }
 
 .masthead-subtitle {
+  display: block;
   color: #999;
+}
+
+#iframe-wrap {
+  display: flex;
+  flex-direction: column;
 }
 
 /*

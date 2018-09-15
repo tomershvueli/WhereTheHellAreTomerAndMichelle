@@ -3,11 +3,14 @@ layout: default
 title: Home
 ---
 
-<iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/747561/1132170/?tiles=streets&amp;showguide=false&amp;triponly=1132170" frameBorder="0" id="trip-map-iframe" onload="iframeLoaded()" width="800" height="0" style="margin-bottom: 10px;"></iframe>
-<p style="font-size: 13px;color:#333;margin-bottom: 10px;"><a href="https://www.travellerspoint.com/travel-maps.cfm">Create your own travel map</a></p>
+<div id="iframe-wrap">
+  <iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/747561/1132170/?tiles=streets&amp;showguide=false&amp;triponly=1132170" frameBorder="0" id="trip-map-iframe" onload="iframeLoaded()" width="800" height="500" style="margin-bottom: 10px;"></iframe>
+  <br />
+  <p style="font-size: 13px;color:#333;margin-bottom: 10px;"><a href="https://www.travellerspoint.com/travel-maps.cfm">Create your own travel map</a></p>
+</div>
 
 {% for post in paginator.posts %}
-<div class="posts">
+<div class="posts" id="posts-wrap">
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
@@ -40,14 +43,16 @@ title: Home
 
 <script type="text/javascript">
   function iframeLoaded() {
-    var iFrameID = document.getElementById("trip-map-iframe");
-
-    if (iFrameID && screen) {
-      let screenWidth = screen.width;
-
-      iFrameID.width = `${screenWidth - 400}px`;
-      iFrameID.height = "600px";
-      iFrameID.style.marginLeft = "-200px";
-    }
+    resizeIframe();
   }
+
+  function resizeIframe() {
+    let post = document.getElementById("post-wrap")
+    let iFrameID = document.getElementById("trip-map-iframe");
+
+    iFrameID.height = "500px";
+    iFrameID.width = `${post.width}px`;
+  }
+
+  window.addEventListener('resize', function(){ resizeIframe(); }, true);
 </script>
