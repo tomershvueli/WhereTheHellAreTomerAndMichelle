@@ -402,7 +402,7 @@ th, td {
 	color: #375989;
 }
 
-.fa-github {
+.fa-image {
   padding: 5px;
 	-o-transition:.5s;
   	-ms-transition:.5s;
@@ -411,7 +411,7 @@ th, td {
   	transition: .5s;
 }
 
-.fa-github:hover {
+.fa-image:hover {
 	color: #343434;
 }
 
