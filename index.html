@@ -3,11 +3,16 @@ layout: default
 title: Home
 ---
 
+<h2>Track our Itinerary</h2>
 <div id="iframe-wrap">
   <iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/747561/1132170/?tiles=streets&amp;showguide=false&amp;triponly=1132170" frameBorder="0" id="trip-map-iframe" onload="iframeLoaded()" width="800" height="500" style="margin-bottom: 10px;"></iframe>
-  <br />
   <p style="font-size: 13px;color:#333;margin-bottom: 10px;"><a href="https://www.travellerspoint.com/travel-maps.cfm">Create your own travel map</a></p>
 </div>
+
+<h2>Photo Diary</h2>
+{% include photo-viewer.html %}
+
+<h2>Posts</h2>
 
 {% for post in paginator.posts %}
 <div class="posts" id="posts-wrap">
