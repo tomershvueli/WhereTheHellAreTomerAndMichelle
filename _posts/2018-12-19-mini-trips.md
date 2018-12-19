@@ -4,7 +4,7 @@ title: "Mini-Trips"
 author: "Tomer Shvueli"
 categories: journal
 tags: [travel,destination,mini-trip]
-image: porto_pano.png
+image: /assets/img/porto_pano.png
 display_image_above_post: false
 ---
 
