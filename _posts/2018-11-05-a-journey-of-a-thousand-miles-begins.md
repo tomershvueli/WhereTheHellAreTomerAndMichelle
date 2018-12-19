@@ -5,6 +5,7 @@ author: "Tomer Shvueli"
 categories: journal
 tags: [travel,destination]
 image: lisbon.png
+display_image_above_post: true
 ---
 
 A journey of a thousand miles begins after a few glasses of wine and a good airline deal to a great destination. Or that's how our journey began. 
