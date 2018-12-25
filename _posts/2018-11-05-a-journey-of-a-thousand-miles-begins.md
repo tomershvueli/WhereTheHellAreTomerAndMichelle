@@ -4,7 +4,7 @@ title: "A Journey of a Thousand Miles Begins..."
 author: "Tomer Shvueli"
 categories: journal
 tags: [travel,destination]
-image: lisbon.png
+image: /assets/img/lisbon.png
 display_image_above_post: true
 ---
 
