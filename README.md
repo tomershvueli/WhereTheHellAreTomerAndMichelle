@@ -4,6 +4,10 @@ Lagrange is a minimalist Jekyll theme for running a personal blog or site for fr
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
 
+## Updating Image Slider
+
+We currently implement the image slider from [this site](https://www.publicalbum.org/blog/embedding-google-photos-albums). Simply go there, paste in this Google Photos Album URL: `https://photos.app.goo.gl/vE6MqA3fdBs1ecBq9` and hit 'Create Embed Code'. In the page it takes you to, copy the entirety of the code to the clipboard. Open 'photo-viewer.html' in this project. You can replace most of the code in this file with the clipboard, but be cautious! There is a link at the bottom of the page that links back out to the Google Photos Album, do not overwrite this link! 
+
 ## Notable features
 
 * Compatible with GitHub Pages.
