@@ -17,7 +17,7 @@ Going back to Scotland, ironically, always brings me a feeling of warmth - most 
 While I had confidence in myself as a child in Glasgow, I was quite nervous when I returned as an adult. The map of Glasgow in my head was very small. After going back so many times as an adult, usually alone or with my sister, I have developed a bit more of a sense of direction and am more sure of myself.
 
 ![Michelle and Yvonne Grow Up](/assets/img/michelle_and_yvonne_grow_up.jpg "Michelle and Yvonne Grow Up")
-*Michelle and Yvonne Grow Up*
+*Michelle and Yvonne Grow Up, Photo Credit: Yvonne McKenna*
 
 I still feel foreign and strange, my Scottish accent still flows in and out when I am there with my sister or around other Americans, as if my voice can’t make its mind up. In fact, as I am typing now my inner voice changes back and forth. I don’t feel like I am 100 percent Scottish, I am something else. And I certainly don’t feel like I am 100 percent American. I take pride in my dual nationality and my third culture melding that takes place in my family. 
 

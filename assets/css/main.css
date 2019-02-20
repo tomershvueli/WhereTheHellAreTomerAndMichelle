@@ -67,6 +67,10 @@ img {
   border-radius: 5px;
 }
 
+em {
+  font-size: 15px;
+}
+
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
