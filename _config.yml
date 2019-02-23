@@ -24,6 +24,17 @@ title:		           'Where The Hell Are Tomer And Michelle?'
 description:	       'Follow Tomer and Michelle on their digital nomad journey'
 author:              'Tomer & Michelle'
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-minifier
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml

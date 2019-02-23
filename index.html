@@ -5,7 +5,7 @@ title: Home
 
 <h2>Track our Itinerary</h2>
 <div id="iframe-wrap">
-  <iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/747561/1132170/?tiles=streets&amp;showguide=false&amp;triponly=1132170" frameBorder="0" id="trip-map-iframe" onload="iframeLoaded()" width="800" height="500" style="margin-bottom: 10px;"></iframe>
+  <iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/747561/1132170/?tiles=streets&amp;showguide=false&amp;triponly=1132170" frameBorder="0" id="trip-map-iframe" onload="iframeLoaded()" width="800" height="500" style="margin-bottom: 10px;" title="Our Itinerary"></iframe>
   <p style="font-size: 13px;color:#333;margin-bottom: 10px;"><a href="https://www.travellerspoint.com/travel-maps.cfm">Create your own travel map</a></p>
 </div>
 
@@ -15,13 +15,13 @@ title: Home
 <h2>Posts</h2>
 
 {% for post in paginator.posts %}
-<div class="posts" id="posts-wrap">
+<div class="posts">
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
   {% if post.image %}
   <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}{{ post.image }}"></a>
+    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}{{ post.image }}" alt="{{ post.title }}"></a>
   </div>
   {% endif %}
   <p>

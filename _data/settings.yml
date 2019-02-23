@@ -10,9 +10,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'instagram', link: 'https://www.instagram.com/wherethehelltomerandmichelle/'}
-- {icon: 'envelope', link: 'mailto:thetomester13+wherethehellaretomerandmichelle@gmail.com'}
-- {icon: 'rss-square', link: '/feed.xml'}
+- {icon: 'instagram', link: 'https://www.instagram.com/wherethehelltomerandmichelle/', aria_label: 'Follow us on Instagram'}
+- {icon: 'envelope', link: 'mailto:thetomester13+wherethehellaretomerandmichelle@gmail.com', aria_label: 'Send us an Email'}
+- {icon: 'rss-square', link: '/feed.xml', aria_label: 'Follow our RSS Feed'}
 
 # Customize site text
 pagination:

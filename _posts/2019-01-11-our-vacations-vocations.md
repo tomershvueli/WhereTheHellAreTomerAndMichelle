@@ -4,13 +4,13 @@ title: "Our \"Vacation's\" Vocations"
 author: "Tomer Shvueli and Michelle McKenna"
 categories: journal
 tags: [travel,destination,work,vocation, travel as a lifestyle]
-image: /assets/img/merkspace_tomer_michelle.png
+image: /assets/img/merkspace_tomer_michelle.jpg
 display_image_above_post: false
 ---
 
 I put the word vacation in quotes for a reason. When we tell people that we're traveling around the world indefinitely, we naturally get a mix of reactions. Among those reactions we've seen a lot of 'how can you afford that?' and 'it must be fun sightseeing all the time'. In fact, that's not the case at all. While we are traveling indefinitely, we are also working full-time from the road. For that reason I also don't like to use the word 'vacation' to describe this trip (besides for alliteration in a blog title :) but rather prefer 'Travel as a Lifestyle'. We are still living a regular life, but with a rotating landscape every month or so. 
 
-![Heden Coworking Spot in Lisbon](/assets/img/heden.png "Heden Coworking Spot in Lisbon")
+![Heden Coworking Spot in Lisbon](/assets/img/heden.jpg "Heden Coworking Spot in Lisbon")
 *Heden Coworking Spot in Lisbon*
 
 ## 'So Tomer, what do you do for work on the road?'
@@ -22,7 +22,7 @@ After speaking with his own manager, they felt confident in extending me an offe
 
 These days, I work online with my team of 6 fellow developers. I am online for the regular workday hours, with few exceptions. In the morning I work by myself, this gives me time to plug in without distractions and maybe even pick up a story from a team member from the previous day, creating a sort of 'relay development' flow. In the afternoons (the rest of my team's morning) we do our agile ceremonies and split off for any pair programming we may need to do. I sign off when they head out to lunch. I'm happy to say that this has been working very well for our team for the past few months and I'm sure they could attest to that! 
 
-![Michelle and Tomer Loving Merkspace in Tel Aviv](/assets/img/merkspace_tomer_michelle.png "Michelle and Tomer Loving Merkspace")
+![Michelle and Tomer Loving Merkspace in Tel Aviv](/assets/img/merkspace_tomer_michelle.jpg "Michelle and Tomer Loving Merkspace")
 *Michelle and Tomer Loving Merkspace in Tel Aviv*
 
 ## 'What about you, Michelle, what do you do?'
@@ -37,7 +37,7 @@ The ad mentioned an online job with a steady hourly rate, and the flexibility of
 ## 'And that's worked well?'
 Even with both of our flexibility, it's not always been easy to make sure our schedules line up, but we are getting better at it over time. We can now proudly say that we are working from the road and that is financing our travels as we go see the world! 
 
-![TGIM (Thank God It's Monday) Coworking Spot in Zurich](/assets/img/tgim.png "TGIM (Thank God It's Monday) Coworking Spot in Zurich")
+![TGIM (Thank God It's Monday) Coworking Spot in Zurich](/assets/img/tgim.jpg "TGIM (Thank God It's Monday) Coworking Spot in Zurich")
 *TGIM (Thank God It's Monday) Coworking Spot in Zurich*
 
 ## 'What about me? My job doesn't fit into either of those industries..'
