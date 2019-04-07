@@ -13,7 +13,7 @@ display_image_above_post: true
 date: 2019-04-07 12:24:09 +0000
 
 ---
-Due to our Visa arrangement (or lack thereof), Michelle and I have to carefully balance the amount of days spent within and outside of the Schengen Area*. While this does seem inconvenient, it means that we are forced to travel to places we wouldn't necessarily think of otherwise. This is the story of how we ended up landing in Belgrade, Serbia on January 20th.
+Due to our Visa arrangement (or lack thereof), Michelle and I have to carefully balance the amount of days spent within and outside of the Schengen Area*. While this does seem inconvenient, it means that we travel to places we wouldn't necessarily think of otherwise. This is the story of how we ended up landing in Belgrade, Serbia on January 20th.
 
 > ### * Term to Know - Schengen Area
 >
