@@ -25,7 +25,7 @@ Belgrade is a gorgeous city, with seemingly random  and fresh architecture every
 
 Belgrade has been burnt to the ground _44 times_ throughout its treacherous history. As a city, it has exchanged empires more than one would care to sum up. And that includes so recently as most of us were alive when the future of the cherished city was uncertain. But all of that rich history just adds to its uniqueness. The 'seemingly random architecture' is simply due to the city changing hands so many times and each empire constructing buildings in their chosen style. On one street corner you can see hundreds of years of history just by looking at the buildings surrounding you.
 
-The people there would go out of their way to help us with directions or with finding a relevant answer for us, simply because they could. In most country capitals, this is unheard of.
+The people in Belgrade would go out of their way to help us with directions or with finding a relevant answer for us, simply because they could. In most country capitals, this is unheard of.
 
 ![View from the Belgrade Fortress](/assets/img/danube_afar.jpg "View from the Belgrade Fortress")
 _View from the Belgrade Fortress_
@@ -37,6 +37,6 @@ The Danube River flowing through the center of the city provides a gorgeous view
 ![The Danube](/assets/img/danube_pano.jpg "The Danube")
 _The Danube_
 
-Our main complaint from this visit was their 'smoking allowed indoor' policy, found just about at every restaurant and especially every bar. What boggled my mind is that the no-smoking section was usually upstairs, where all the smoke ended up anyway! Luckily we had a washer in our Airbnb which definitely got its use after a night out.
+Our main complaint from this visit was their 'smoking allowed indoor' policy, found just about at every restaurant and especially every bar. What boggled my mind is that the no-smoking section was usually upstairs, where all the smoke ended up anyway! Luckily we had a laundry machine in our Airbnb which definitely got its use after nights out.
 
 Verdict: If you are trying to balance out Schengen dates, or simply looking for a still-under-the-radar city to visit, you should definitely give Belgrade a whirl!
