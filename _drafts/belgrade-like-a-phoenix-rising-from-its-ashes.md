@@ -13,9 +13,11 @@ display_image_above_post: true
 date: 2019-04-07 12:24:09 +0000
 
 ---
-Due to our Visa arrangement (or lack thereof), Michelle and I have to carefully balance the amount of days spent within and outside of the Schengen area. While this does seem inconvenient, it means that we are forced to travel to places we wouldn't necessarily think of otherwise. This is the story of how we ended up landing in Belgrade, Serbia on January 20th. 
+Due to our Visa arrangement (or lack thereof), Michelle and I have to carefully balance the amount of days spent within and outside of the Schengen area. While this does seem inconvenient, it means that we are forced to travel to places we wouldn't necessarily think of otherwise. This is the story of how we ended up landing in Belgrade, Serbia on January 20th.
 
-> NOTE: The Schengen area is an area comprised of most of the EU countries that have agreed to serve as a single jurisdiction for international travel. If you are European, you are free to travel among that area as you wish. If you are not, however, you can only be in the Schengen Area for 90 out of 180 days, rolling. Do not fret, though! Since we had trouble keeping up with our calculations, we created [EuCalc.com](https://eucalc.com "EuCacl") just for this purpose! [More about the Schengen Area](https://en.wikipedia.org/wiki/Schengen_Area "Schengen Area - Wikipedia"). 
+> ###### Term to Know - Schengen Area
+>
+> The Schengen Area is an area comprised of most of the EU countries that have agreed to serve as a single jurisdiction for international travel. If you are European, you are free to travel among that area as you wish. If you are not, however, you can only be in the Schengen Area for 90 out of 180 days, rolling. Do not fret, though! Since we had trouble keeping up with our calculations, we created [EuCalc.com](https://eucalc.com "EuCacl") just for this purpose! [More about the Schengen Area](https://en.wikipedia.org/wiki/Schengen_Area "Schengen Area - Wikipedia").
 
 Serbia is one of those countries that people don't always have a positive connotation with, or even know what to expect at all. I fell in the latter group and was almost waiting to be underwhelmed. However, that feeling never came.
 
