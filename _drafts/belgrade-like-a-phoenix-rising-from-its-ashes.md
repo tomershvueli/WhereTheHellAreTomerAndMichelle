@@ -23,9 +23,9 @@ Serbia is one of those countries that people don't always have a positive connot
 
 Belgrade is a gorgeous city, with seemingly random and fresh architecture everywhere you look, some of the friendliest people we've come across, delicious and juicy meat dishes, and prices that'll make you say 'yes please, I will have bacon on that!'
 
-Belgrade has been burnt to the ground _44 times_ throughout its treacherous history. As a city, it has exchanged empires more than one would care to sum up. And that includes so recently that most of us were alive when the future of the cherished city was uncertain. But all of that rich history just adds to its uniqueness. The 'seemingly random architecture' is simply due to the city changing hands so many times and each empire constructing buildings in their chosen style. On one street corner you can see hundreds of years of history just by looking at the buildings surrounding you.
+Belgrade has been burnt to the ground _44 times_ throughout its treacherous history. As a city, it has exchanged empires more than one would care to sum up. And that includes so recently that most of us were alive when the future of the cherished city was uncertain. But all of that rich history just adds to its uniqueness. While some of the streets are definitely rough around the edges, the 'seemingly random architecture' is simply due to the city changing hands so many times and each empire constructing buildings in their chosen style. On one street corner you can see hundreds of years of history just by looking at the buildings surrounding you.
 
-The people in Belgrade would go out of their way to help us with directions or with finding a relevant answer for us, simply because they could. In most country capitals, this is unheard of.
+The people in Belgrade were extremely kind and would go out of their way to help us with directions or with finding a relevant answer for us, simply because they could. In most country capitals, this is unheard of.
 
 ![View from the Belgrade Fortress](/assets/img/danube_afar.jpg "View from the Belgrade Fortress")
 _View from the Belgrade Fortress_
