@@ -28,7 +28,7 @@ _View from the Belgrade Fortress_
 
 Belgrade really wants to prove that it can be on par with more well-known Eastern European cities as Budapest and Prague, and it shows. Their main shopping street was well decorated with still-up Christmas lights and was as busy as Budapest's Fashion Street or similar attractions. Working during our stay here was no problem at all as there are [plenty of co-working spaces to choose from](https://www.coworker.com/search/belgrade/serbia) (though my favorite is [Smart Office](https://www.coworker.com/serbia/belgrade/smart-office)) and WiFi was as ubiquitous as one would expect from a modern, connected city.
 
-The Danube River flowing through the center of the city provides a gorgeous view and plenty of activities. (Not to mention a great tactical advantage to defend an empmire before modern technology - one of the reasons Belgrade was such a hot commodity.)
+The Danube River flowing through the center of the city provides a gorgeous view and plenty of activities. (Not to mention a great tactical advantage to defend an empire before modern technology - one of the reasons Belgrade was such a hot commodity.)
 
 ![The Danube](/assets/img/danube_pano.jpg "The Danube")
 _The Danube_
