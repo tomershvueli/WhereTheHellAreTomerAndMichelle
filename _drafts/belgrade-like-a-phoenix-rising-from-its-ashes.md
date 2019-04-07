@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Belgrade - Like a Phoenix Rising from its Ashes
 author: Tomer Shvueli
 categories: ''
