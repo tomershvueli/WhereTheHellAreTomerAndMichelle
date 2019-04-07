@@ -2,8 +2,12 @@
 layout: post
 title: Belgrade - Like a Phoenix Rising from its Ashes
 author: Tomer Shvueli
-categories: ''
-tags: []
+categories: journal
+tags:
+- schengen
+- belgrade
+- destination
+- travel
 image: "/assets/img/white_belgrade_porch.jpg"
 display_image_above_post: true
 date: 2019-04-07 12:24:09 +0000
