@@ -1,0 +1,9 @@
+---
+label: Basic Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
