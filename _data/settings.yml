@@ -3,6 +3,9 @@ disqus:
   comments: true
   disqus_shortname: 'wherethehellaretomerandmichelle'
 
+commento:
+  comments: true
+
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Writing', path: 'menu', url: 'writing.html'}
