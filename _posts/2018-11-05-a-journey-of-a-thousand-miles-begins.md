@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "A Journey of a Thousand Miles Begins..."
-author: "Tomer Shvueli"
+title: A Journey of a Thousand Miles Begins...
+author: Tomer Shvueli
 categories: journal
-tags: [travel,destination]
-image: /assets/img/lisbon.jpg
+tags:
+- travel
+- destination
+image: "/assets/img/lisbon.jpg"
 display_image_above_post: true
----
 
+---
 A journey of a thousand miles begins after a few glasses of wine and a good airline deal to a great destination. Or that's how our journey began. 
 
 Even though I consider myself well-traveled, the world is such a large place and I knew wanted to see and experience more of it with any opportunity I got. And then the thought hit me: I can create those opportunities for myself. I've had an idea for a trip like this before I had ever heard of the name Tim Ferris or the terms vagabonding or 'digital nomad'. So began, a many-year's long plan in my head to be able to 'travel as a lifestyle'. 
@@ -18,4 +20,4 @@ Michelle was very much on-board. As a person with an international background he
 
 Michelle and myself are currently in Lisbon, Portugal for the next month. This is the first stop of many on our indefinite digital nomad journey together. Seeing, experiencing, eating, meeting, working, living. 
 
-I hope you'll follow our story as we post updates from our travels. Saude!  
+I hope you'll follow our story as we post updates from our travels. Saude!
