@@ -1,8 +1,4 @@
-# Change 'comments' to true for Disqus comments
-disqus:
-  comments: true
-  disqus_shortname: 'wherethehellaretomerandmichelle'
-
+# Commento comments
 commento:
   comments: true
 
