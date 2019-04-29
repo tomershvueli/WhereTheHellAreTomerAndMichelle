@@ -30,6 +30,8 @@ Let's start with some facts:
 
 We're currently writing to you from Split, Croatia!
 
+![](/assets/img/split.jpg)
+
 ## **Where to next?**
 
 After our month in Split, including one whole week of which we will spend with Michelle's family that is coming to visit us, we will take a ferry to Italy and be there for just under 4 weeks. We’ll be walking the magical streets of Rome, watching the sunset in Genoa Nervi, and stuffing our faces with as much pizza and pasta as possible in Florence, before heading to Israel again.
