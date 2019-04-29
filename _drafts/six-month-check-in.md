@@ -22,7 +22,7 @@ Let's start with some facts:
 * Gone on [6 mini-trips](https://wherethehellaretomerandmichelle.com/journal/mini-trips.html) - going on a trip without having to bring our suitcase with us. Four more are planned.
 * Miles travelled so far: \~ 13780.52 miles
 * We have planned our travels through end August.
-* Cheapest place: Belgrade, Serbia and Marrakesh, Morocco came pretty close.
+* Cheapest place: Belgrade, Serbia and Marrakesh, Morocco came pretty close
 * Most expensive place: Zurich, Switzerland
 * Number of items lost: 3 - our bathing suits in Budapest and Michelle’s sunglasses 😅
 
