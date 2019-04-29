@@ -46,6 +46,8 @@ So far, it is absolutely amazing and better than we could have imagined! We've g
 
 **_Michelle_**: I struggle with this in the best way possible, I live by my senses so depending on where we are and what mood I am in, I will have a different answer. I love the food in Tel Aviv so if I am hungry for lunch, I’ll say Tel Aviv with its tons of tiny salads, or Portugal with its fresh octopus salad. If I am thinking of friends and closeness to an adopted culture, I am very much at home in the Netherlands. I love the kindness and the sweetness of the people in Belgrade and the Berber people of the Atlas mountains in Morocco. If I have had a drink and am craving some late night food, nothing beats a Langosh in Budapest. When I wake up thinking of breakfast, I miss sitting at my aunt and uncle’s table scoffing (Scottish word for eating) beans, rolls, sausages, black pudding, and a huge mug of tea. When I think of magic and feeling small, my thoughts go to the soaring mountains of Switzerland or biking my Swapfiets down the Spiegelstraat under a starry night in Amsterdam. I am a mess with feelings about all these wonderful places. Right this second I am in Croatia and just left friends and family in The Netherlands - so my nostalgia is casting my vote for the Netherlands right now.
 
+![The Soaring Mountains of Switzerland](/assets/img/alps.jpg "The Swiss Alps")
+
 ## **What do you miss the most?**
 
 **_Tomer_**: My family and friends, without a doubt (it's a cliche for a reason, right??). The hardest part for me is experiencing all of these new things without being able to share it with some of the people I would most like to share it with. I remember when driving for 25 minutes to a family dinner felt like a chore - I now realize how silly that was. Because I made the conscious decision to leave on this trip, I make it a point to keep in touch with everyone through calls, chats, and random Snapchats of things that remind me of someone in particular.
@@ -53,6 +55,8 @@ So far, it is absolutely amazing and better than we could have imagined! We've g
 On the flip side of the coin, it means that when I do see my family (like this past December in Israel) or friends (like just last week in Amsterdam), we appreciate the time we spend together and create more cherished memories since we’re not able to do so as often as we used to.
 
 **_Michelle_**: Family, yes but they can call and visit. Friends, yes but they can also call and visit. For that reason, most of all I miss my family dog Charles Snarles Barkley Mckenna, greatest dog ever. My life would be complete if I could transport my dog without stressing him out, have him visit for a day or two, and return him to his little hiding spots in my parents’ home where he likes to snuggle.
+
+![Charles Snarles Barkley Mckenna](/assets/img/charlie.jpg "Charles Snarles Barkley Mckenna")
 
 ## **How do you guys not like….kill each other?**
 
