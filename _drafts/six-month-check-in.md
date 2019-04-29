@@ -30,7 +30,7 @@ Let's start with some facts:
 
 We're currently writing to you from Split, Croatia!
 
-![](/assets/img/split.jpg)
+![Tomer and Michelle in Croatia](/assets/img/split-1.jpg "Welcome to Croatia!")
 
 ## **Where to next?**
 
