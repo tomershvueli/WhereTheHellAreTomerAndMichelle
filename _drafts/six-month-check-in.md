@@ -56,6 +56,10 @@ _The Soaring Mountains of Switzerland_
 
 On the flip side of the coin, it means that when I do see my family (like this past December in Israel) or friends (like just last week in Amsterdam), we appreciate the time we spend together and create more cherished memories since we’re not able to do so as often as we used to.
 
+![Tomer with his family in Tel Aviv](/assets/img/tomer_and_the_fam.JPG "Tomer with his family in Tel Aviv")
+
+_Tomer with his family in Tel Aviv_
+
 **_Michelle_**: Family, yes but they can call and visit. Friends, yes but they can also call and visit. For that reason, most of all I miss my family dog Charles Snarles Barkley Mckenna, greatest dog ever. My life would be complete if I could transport my dog without stressing him out, have him visit for a day or two, and return him to his little hiding spots in my parents’ home where he likes to snuggle.
 
 ![Charles Snarles Barkley Mckenna](/assets/img/charlie.jpg "Charles Snarles Barkley Mckenna")
