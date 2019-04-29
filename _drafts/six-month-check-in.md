@@ -74,6 +74,8 @@ I'm very happy with my current situation! Traveling while working was very much 
 
 Last we checked in about the subject, Michelle was working for RelationshipHero. She has taken a turn in a different direction and is now running her own business doing the same type of relationship and life coaching, but under her own personal brand name, [TalkToCoachMichelle](http://talktocoachmichelle.com). While working for oneself comes with a lot of overhead and is by no means trivial, at the moment she’s loving the new challenge and is making much better use of her time in exploring our destinations.
 
+![Michelle Working on the Train Amsterdam](/assets/img/michelle_working_on_the_train.jpg "Michelle Working on the Train Amsterdam")
+
 ## **When does your trip end?**
 
 Our original plan for this trip was to travel for around 2 - 2.5 years, and I don't think anything has changed in that regards. While we haven't gotten too far out of the European region yet, we plan to head towards South East Asia (with a stop in India along the way) later on this year. In that area of the world, with looser Visa regulations and a cheaper cost of living, we plan on increasing our stays to closer to 3 months per stop and really get to explore that region in depth.
