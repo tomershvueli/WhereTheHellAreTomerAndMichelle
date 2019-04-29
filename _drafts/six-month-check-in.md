@@ -4,6 +4,9 @@ title: Six Month Check In
 author: Tomer and Michelle
 categories: journal
 tags:
+- faq
+- destination
+- travel
 - check-in
 image: ''
 display_image_above_post: false
