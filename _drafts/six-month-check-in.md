@@ -14,7 +14,7 @@ Similar to thinking back to your previous birthday or your most recent major wor
 Let's start with some facts:
 
 * We began our trip in Lisbon, Portugal on October 26th, 2018.
-* We've been to 10 countries so far, though only 7 capitals.
+* We've been to 11 countries so far, though only 7 capitals.
 * This will be the 6th blog post written so far, successfully hitting my goal of at least 1 per month!
 * Gone on [6 mini-trips](https://wherethehellaretomerandmichelle.com/journal/mini-trips.html) - going on a trip without having to bring our suitcase with us. Four more are planned.
 * Miles travelled so far: \~ 13780.52 miles
