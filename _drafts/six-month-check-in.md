@@ -8,7 +8,7 @@ tags:
 - destination
 - travel
 - check-in
-image: ''
+image: "/assets/img/split-1.jpg"
 display_image_above_post: false
 
 ---
