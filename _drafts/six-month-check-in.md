@@ -12,16 +12,16 @@ image: "/assets/img/split-1.jpg"
 display_image_above_post: false
 
 ---
-Similar to thinking back to your previous birthday or your most recent major work milestone, I can't help but feel that our journey only started, while at the same time feeling that we've been on the road for years. So many things have happened during our journey so far, even though we've been staying close to a full month at most stops, that it feels like years has passed. I've also very much gotten used to the fact that we don't really have a 'home'. And while living out of a suitcase is no picnic, we've made do and have optimized our packing so that we don't tire of it.
+Similar to thinking back to your previous birthday or your most recent major work milestone, I can't help but feel that our journey only started, while at the same time feeling that we've been on the road for years. So many things have happened during our journey so far, even though we've been staying close to a full month at most stops, that it feels like years have passed. I've also very much gotten used to the fact that we don't really have a 'home'. And while living out of a suitcase is no picnic, we've made do and have optimized our packing so that we don't tire of it.
 
 Let's start with some facts:
 
 * We began our trip in Lisbon, Portugal on October 26th, 2018.
 * We've been to 11 countries so far, though only 7 capitals.
 * This will be the 6th blog post written so far, successfully hitting my goal of at least 1 per month!
-* Gone on [6 mini-trips](https://wherethehellaretomerandmichelle.com/journal/mini-trips.html) - going on a trip without having to bring our suitcase with us. Four more are planned.
+* Gone on [6 mini-trips](https://wherethehellaretomerandmichelle.com/journal/mini-trips.html) - going on a trip without having to bring our suitcase with us. We have four more planned right now!
 * Miles travelled so far: \~ 13780.52 miles
-* We have planned our travels through end August.
+* We have planned and booked our travels through end August.
 * Cheapest place: Belgrade, Serbia and Marrakesh, Morocco came pretty close
 * Most expensive place: Zurich, Switzerland
 * Number of items lost: 3 - our bathing suits in Budapest and Michelle’s sunglasses 😅
@@ -45,7 +45,7 @@ So far, it is absolutely amazing and better than we could have imagined! We've g
 
 **_Tomer_**: This is probably the question we get most often, and yet I still don't have a straight answer. Tel Aviv will always have a special place in my heart. Budapest was an extremely fun city, relatively cheap, with plenty to do - I would definitely consider that in my top 3. Berlin really surprised me for the better the first time I was there, but unfortunately our stay there this time was too short to count for a 'real' visit. And both our stops in the Netherlands (Groningen and Amsterdam) are very fun and easy places to be.
 
-**_Michelle_**: I struggle with this in the best way possible, I live by my senses so depending on where we are and what mood I am in, I will have a different answer. I love the food in Tel Aviv so if I am hungry for lunch, I’ll say Tel Aviv with its tons of tiny salads, or Portugal with its fresh octopus salad. If I am thinking of friends and closeness to an adopted culture, I am very much at home in the Netherlands. I love the kindness and the sweetness of the people in Belgrade and the Berber people of the Atlas mountains in Morocco. If I have had a drink and am craving some late night food, nothing beats a Langosh in Budapest. When I wake up thinking of breakfast, I miss sitting at my aunt and uncle’s table scoffing (Scottish word for eating) beans, rolls, sausages, black pudding, and a huge mug of tea. When I think of magic and feeling small, my thoughts go to the soaring mountains of Switzerland or biking my Swapfiets down the Spiegelstraat under a starry night in Amsterdam. I am a mess with feelings about all these wonderful places. Right this second I am in Croatia and just left friends and family in The Netherlands - so my nostalgia is casting my vote for the Netherlands right now.
+**_Michelle_**: I struggle with this in the best way possible, I live by my senses so depending on where we are and what mood I am in, I will have a different answer. I love the food in Tel Aviv so if I am hungry for lunch, I’ll say Tel Aviv with its tons of tiny salads, or Portugal with its fresh octopus salad. If I am thinking of friends and closeness to an adopted culture, I am very much at home in the Netherlands. I love the kindness and the sweetness of the people in Belgrade and the Berber people of the Atlas mountains in Morocco. If I have had a drink and am craving some late night food, nothing beats a Langosh in Budapest. When I wake up thinking of breakfast, I miss sitting at my aunt and uncle’s table scoffing (Scottish word for eating) beans, rolls, sausages, black pudding, and a huge mug of tea. When I think of magic and feeling small, my thoughts go to the soaring mountains of Switzerland or biking my Swapfiets (bike rental) down the Spiegelstraat under a starry night in Amsterdam. I am a mess with feelings about all these wonderful places. Right this second I am in Croatia and just left friends and family in The Netherlands - so my nostalgia is casting my vote for the Netherlands right now.
 
 ![The Soaring Mountains of Switzerland](/assets/img/alps.jpg "The Swiss Alps")
 _The Soaring Mountains of Switzerland_
@@ -67,7 +67,7 @@ _Charles Snarles Barkley Mckenna_
 
 ## **How do you guys not like….kill each other?**
 
-**_Michelle_**: We get asked this question in several different ways, people aren’t sure how to ask it. I have a few theories as to why it works. We have always been quite a close couple and we don’t tire of each others’ company quickly. Some couples need more independent time, and we enjoy that too but it’s less necessary for us. We are also very good at being around each other but being in our own headspace, writing, reading, watching TV, calling friends or family - we are around each other a lot but not interacting. Tomer is also a morning person and I am a night person so Tomer gets alone time before I wake up and I get alone time at night when he has fallen asleep. Being a relationship coach helps because we have a real growth mindset when it comes to our relationship. For example, in every argument there is something to learn and we really do work like a team everyday - otherwise this wouldn’t work. We keep each other in check and try to motivate each other. I consider myself pretty luck for this reason- Tomer is amazing, I am humbled to be on his team.
+**_Michelle_**: We get asked this question in several different ways, people aren’t sure how to ask it. I have a few theories as to why it works. We have always been quite a close couple and we don’t tire of each others’ company quickly. Some couples need more independent time, and we enjoy that too but it’s less necessary for us. We are also very good at being around each other but being in our own headspace, writing, reading, watching TV, calling friends or family - we are around each other a lot but not interacting. Tomer is also a morning person and I am a night person so Tomer gets alone time before I wake up and I get alone time at night when he has fallen asleep. Being a relationship coach helps because we have a real growth mindset when it comes to our relationship. For example, in every argument there is something to learn and we really do work like a team everyday - otherwise this wouldn’t work. We keep each other in check and try to motivate each other. I consider myself pretty luck for this reason - Tomer is amazing, I am humbled to be on his team.
 
 ## **How does your family feel about you guys being so far away?**
 
@@ -81,11 +81,10 @@ I'm very happy with my current situation! Traveling while working was very much 
 
 Last we checked in about the subject, Michelle was working for RelationshipHero. She has taken a turn in a different direction and is now running her own business doing the same type of relationship and life coaching, but under her own personal brand name, [TalkToCoachMichelle](http://talktocoachmichelle.com). While working for oneself comes with a lot of overhead and is by no means trivial, at the moment she’s loving the new challenge and is making much better use of her time in exploring our destinations.
 
-![Michelle Working on the Train Amsterdam](/assets/img/michelle_working_on_the_train.jpg "Michelle Working on the Train Amsterdam")
-_Michelle Working on the Train Amsterdam_
+![Michelle Working on the Train to Amsterdam](/assets/img/michelle_working_on_the_train.jpg "Michelle Working on the Train to Amsterdam") _Michelle Working on the Train to Amsterdam_
 
 ## **When does your trip end?**
 
-Our original plan for this trip was to travel for around 2 - 2.5 years, and I don't think anything has changed in that regards. While we haven't gotten too far out of the European region yet, we plan to head towards South East Asia (with a stop in India along the way) later on this year. In that area of the world, with looser Visa regulations and a cheaper cost of living, we plan on increasing our stays to closer to 3 months per stop and really get to explore that region in depth.
+Our original plan for this trip was to travel for around 2 - 2.5 years, and I don't think anything has changed in that regards. While we haven't gotten too far out of the European region yet, we plan to head towards South East Asia (with a stop in India along the way) later on this year. In that area of the world, with looser Visa regulations and a lower cost of living, we plan on increasing our stays to closer to 3 months per stop and really get to explore that region in depth.
 
-For other questions like [how they hell do you afford](https://wherethehellaretomerandmichelle.com/journal/our-vacations-vocations.html) this and [what it’s like to be a stranger at home](https://wherethehellaretomerandmichelle.com/journal/strangers-at-home.html), check out our other posts!
+For other questions like [how they hell do you afford](https://wherethehellaretomerandmichelle.com/journal/our-vacations-vocations.html) this and [what it’s like to be a stranger at home](https://wherethehellaretomerandmichelle.com/journal/strangers-at-home.html), check out our other posts! 
