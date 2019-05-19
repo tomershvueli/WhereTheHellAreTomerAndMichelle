@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Gellert Baths - Budapest
+title: How to Do the Gellert Baths In Budapest Like a Pro
 author: Michelle McKenna
 categories: journal
 tags:
