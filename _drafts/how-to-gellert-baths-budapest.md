@@ -10,7 +10,7 @@ tags:
 - gellert baths
 - journal
 - budapest
-image: ''
+image: "/assets/img/gellert-baths-michelle-tomer-1.jpg"
 display_image_above_post: false
 
 ---
