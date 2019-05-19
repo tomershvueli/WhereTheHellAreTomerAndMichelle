@@ -14,7 +14,7 @@ image: ''
 display_image_above_post: false
 
 ---
-We love Budapest and we love Gellert baths.
+We love Budapest and we love The Gellert baths.
 
 This was our second time in Budapest and our 6th time in Gellert Baths. We loved our first Budapest visit so much that when we came back a second time, we stayed for a month. I am someone who often has aches and pains, any length of walking hurts my ankles, and I retain all my stress (from dealing with crowds) in my shoulders. So hot springs that aren't crowded are ideal! Gellert is wonderful for that. I’m going to help you prepare for it like a PRO.
 
@@ -22,9 +22,9 @@ First you should understand how wonderful Gellert Baths is!
 
 * It’s large enough and out of the center enough that it is rarely crowded. Which is big for me, I cannot relax with too many people around me.
 * The baths have a nice range of temperatures.
-* It’s a beautiful cathedral where relaxation is the only god you need to praise.
+* It’s a beautiful cathedral where relaxation is praise.
 * The building and the hotel itself is gorgeous!
-* Men and women can be there together.
+* Men and women can be together.
 * It’s _not_ a party spot.
 
 When going to Gellert you will need a few things to make your experience joyous. Most things are optional but there are a few keys to your own comfort:
@@ -42,7 +42,9 @@ When going to Gellert you will need a few things to make your experience joyous.
 No need to buy online, there are ticket desks on either side of the Gellert Baths entrance, and lines are usually non existent. Credit cards work, so does Hungarian Forint, they don’t accept foreign currencies.  
 You will be confronted with the choice, “Locker or cabin?”
 
-![Michelle at Gellert Baths](/assets/img/gellert-baths-michelle.jpg "Michelle at Gellert Baths")_Michelle at Gellert Baths_
+![Michelle at Gellert Baths](/assets/img/gellert-baths-michelle-1.jpg "Michelle at Gellert Baths")
+
+_Michelle at Gellert Baths_
 
 Lockers are fine but the price difference is nominal and the space difference is so great, cabins easily win out. This pays for your ticket and a cabin/locker. With the cabin, only one person pays the extra 1.35 euros and everyone else pays the locker price and you can all share the cabin. To be clear when they say cabin the mean a dressing room with a lock on it.
 
@@ -77,11 +79,11 @@ Ok, you got your stuff, now head to your cabin, you press the fob of the wristba
 
 Ok, so here is my suggested tour. Try to keep your towel dry, it’s difficult but worth it for the walk home.
 
-First from the fitting room follow signs for “outdoor pool” go outside first, start at the lower end and work your way up, there is a wave pool which can be fun, especially in the summer. For kids. Then on the upper part of the outside there is a 36 degree hot spring pool. Try to get a turn with your shoulders under the water pipes. Enjoy it, bask a bit. Take it in. There is an ice bath “bucket” next to that and a sauna, too. I love switching from one to the other but take it at your own fancy.
+First from the fitting room follow signs for “outdoor pool” go outside first, start at the lower end and work your way up, there is a wave pool which can be fun, especially in the summer. For kids. Then on the upper part of the outside there is a 36 degree celsius hot spring pool. Try to get a turn with your shoulders under the water pipes. Enjoy it, bask a bit. Take it in. There is an ice bath “bucket” next to that and a sauna, too. I love switching from one to the other but take it at your own fancy.
 
 From there go back to in, go right past the cabins and take a slight left to get to the rental counter. You will see a set of stairs, follow it up and you will find yourself on the upper deck of the indoor pool - this is your Instagram shot, this is a nice place to chill. It is usually quiet and lovely. There is a cafe up there too if you want to stop for a tea or coffee at some point.
 
-Then go down and walk around the lap pool, if you have a swim cap and want to do laps, it is the most luxurious place to do so. Don’t try and go in without a cap, they will blow whistles will yell at you. I have tried. Personally, I think they do this to stop Instagrammers cramming up the place **lol**.
+Then go down and walk around the lap pool, if you have a swim cap and want to do laps, it is the most luxurious place to do so. Don’t try and go in without a cap, they will blow whistles and will yell at you. I have tried. Personally, I think they do this to stop Instagrammers cramming up the place.
 
 From there, there is another 36°C pool that is a nice restarter to your thermal journey. After you take that in for a bit, get out and walk around the right of the lap pool and go in this door. It is conspicuously small.
 
@@ -89,13 +91,13 @@ You will then walk to the right around all the massage stalls that are almost al
 
 From there you will see two doors, go straight through and you will find yourself in a lovely tiled cathedral, the heart of Gellert. Try to be quieter in these areas, it’s incredibly echo-y and people are trying to relax.
 
-![Main Gellert Bath Hall](/assets/img/gellert-baths-michelle-tomer.jpg "Main Gellert Bath Hall")
+![Main Gellert Bath Hall](/assets/img/gellert-baths-michelle-tomer-1.jpg "Main Gellert Bath Hall")
 
 _Main Gellert Bath Hall_
 
 On your right is the sauna, and straight ahead there are the steam rooms next to the showers and next to that is one of my favorite, the ice bath!
 
-On either side of you, you will see the 36°C bath and the 40°C bath. Start in the 36, it is slightly warmer than the one outside or the one next to the lap pool. If you want to be on the stairs, make sure to leave room for others to walk by. Don’t be the asshole group of tourists. Try to get a turn under the waterfall lions as I started calling them, they are hotter than the rest of it and give a lovely natural shoulder bath. Some people will hog them, wait close by and when someone leaves, move quickly over. Warning, old men and women are ruthless and move in wayyyyy faster than you think.
+On either side of you, you will see the 36°C bath and the 40°C bath. Start in the 36, it is slightly warmer than the one outside or the one next to the lap pool. If you want to be on the stairs, make sure to leave room for others to walk by. Don’t be the asshole group of tourists. Try to get a turn under the waterfall lions as I started calling them, they are hotter than the rest of it and give a lovely natural shoulder massage. Some people will hog them, wait close by and when someone leaves, move quickly over. Warning, old men and women are ruthless and move in wayyyyy faster than you think.
 
 I usually head from 36 to the 40, then after I get too hot, I go take a dip in the ice bath. Makes me feel like I am in Scotland again. It’s also amazing for muscle aches. I then ease myself back into the 40.
 
@@ -109,4 +111,4 @@ After this I usually go back to the cabin. I don’t normally shower immediately
 
 If you did this right you will feel like jelly when you leave. I like to walk back, when crossing the bridge it can be a bit windy so it is really nice to have my hat to hold my hair together and not let me freeze.
 
-You just finished your visit to the Gellert Baths! I hope it was as enjoyable as my 6th visit to the Baths ;)
+You just finished your visit to the Gellert Baths! I hope you enjoyed it as much as I do.
