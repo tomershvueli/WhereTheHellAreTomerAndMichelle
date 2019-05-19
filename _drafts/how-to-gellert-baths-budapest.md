@@ -42,6 +42,8 @@ When going to Gellert you will need a few things to make your experience joyous.
 No need to buy online, there are ticket desks on either side of the Gellert Baths entrance, and lines are usually non existent. Credit cards work, so does Hungarian Forint, they don’t accept foreign currencies.  
 You will be confronted with the choice, “Locker or cabin?”
 
+![Michelle at Gellert Baths](/assets/img/gellert-baths-michelle.jpg "Michelle at Gellert Baths")_Michelle at Gellert Baths_
+
 Lockers are fine but the price difference is nominal and the space difference is so great, cabins easily win out. This pays for your ticket and a cabin/locker. With the cabin, only one person pays the extra 1.35 euros and everyone else pays the locker price and you can all share the cabin. To be clear when they say cabin the mean a dressing room with a lock on it.
 
 You will receive a wearable red wristband that will activate the lock. Everyone who has a locker or is sharing the cabin will have a blue wristband. All other rentable things like towels, robes or slippers can be rented in the baths themselves.
@@ -60,6 +62,10 @@ You found the building so grand and gorgeous.
 Be sure to walk to the right side of the building where the entrance to the baths are.
 
 Buy your tickets here. The ticket people are quick, they may or may not tell you your cabin or locker number, no worries, there are hosts down in the baths that will show you.
+
+![Gellert Hotel Entrance](/assets/img/gellert-baths-entrance.jpg "Gellert Hotel Entrance")
+
+_Gellert Hotel Entrance_
 
 Go along towards the end, don’t go in the therapy entrance and go towards the turnstiles. With your bracelet on, place the blank watch face bit on the little fob reader and when the light goes green, walk on through. If it doesn’t work there will be an attendant nearby that can help, just ask nicely.
 
@@ -82,6 +88,10 @@ From there, there is another 36°C pool that is a nice restarter to your thermal
 You will then walk to the right around all the massage stalls that are almost always empty.
 
 From there you will see two doors, go straight through and you will find yourself in a lovely tiled cathedral, the heart of Gellert. Try to be quieter in these areas, it’s incredibly echo-y and people are trying to relax.
+
+![Main Gellert Bath Hall](/assets/img/gellert-baths-michelle-tomer.jpg "Main Gellert Bath Hall")
+
+_Main Gellert Bath Hall_
 
 On your right is the sauna, and straight ahead there are the steam rooms next to the showers and next to that is one of my favorite, the ice bath!
 
