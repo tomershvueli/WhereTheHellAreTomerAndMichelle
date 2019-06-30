@@ -17,7 +17,7 @@ When people think of a Mediterranean vacation, Greece, Italy, and Spain immediat
 
 A recently independent country with a vast coastline and an absurd number of islands (over 1200!), Croatia is a beautiful destination filled with history, friendly people, water that actually is crystal clear, and food options that will not disappoint. You might have heard of Croatia before as the ever-popular show Game of Thrones (henceforth GoT) did some of their filming there in historic castles left behind by the Romans. You know it's a gorgeous country if HBO is filming there!
 
-**2673, 2719**
+**2673, 2719, 3300**
 
 We had planned the full month of May in this as-of-yet mysterious country to us. While we were debating staying in the capital, Zagreb, we decided to stay in Split, a large city right on the water. Michelle's family had scheduled a vacation with us for a whole week. Michelle's sister, Yvonne, and her boyfriend were also going to stay with us a bit before and after the week that their family was in town. As if that weren't enough, my good friend Arjun was also going to come visit for the tail end of our stay in Split. It was going to be a busy and action-packed month!
 
