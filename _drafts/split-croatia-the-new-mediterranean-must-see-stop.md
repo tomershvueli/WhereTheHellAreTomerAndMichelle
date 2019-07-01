@@ -39,15 +39,15 @@ While the duration of our stay was in Split, we also managed to make some trips 
 
 Thirty minutes south of Split, and you'll find yourself in Omis. A gorgeous small town with a gorge splitting it right down the middle. We did a zip lining experience here and it was absolutely breathtaking.
 
-**2993, 2916**
+**![](/assets/img/omis_zip_lining.png)**
 
 On our last full day in Split, we decided to take advantage of our limited time and the beautiful weather and did a boating experience. We were on a speedboat that took us to a few different destinations, including the Blue Cave, Hvar, and a shipwreck. Oh, and did we mention a Mojito boat??
 
-**4972, 3192**
+**![](/assets/img/croatia_boating.png)**
 
 With Michelle's family visiting, we were able to rent a large Airbnb to fit all 8 of us (!) in the neighboring town of Solin. We had an absolute blast getting everyone together for the longest time since a long time. There were plenty of games going around (darts, foosball, Bananagrams, you name it), lots of home-cooked food (thanks to our Primary Meal Architect, Michelle), and let's not forget a diversity of drinks as well. We also took the opportunity to visit the local Kliss Castle - one of the filming locations of GoT! As usual, the good byes were hard, but our visit to Croatia meant that much more to us since they were there.
 
-**2863**
+**![](/assets/img/solin_entire_family.png)**
 
 Not only is the location of Split absolutely perfect, but because it's less than 250 km East of Italy and its port city of Ancona, we booked an overnight ferry to take us to our next destination, no flight necessary! I highly recommend the overnight ferry method of traveling if it's plausible at all. Comfortable rooms (as opposed to a plane seat, at least), plenty of space/activity room between restaurants, casinos, and decks, and you can sleep for a whole night and wake up at your destination.
 
