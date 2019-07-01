@@ -23,7 +23,7 @@ We had planned the full month of May in this as-of-yet mysterious country to us.
 
 The first thing we noticed when checking out our new home for the next month was its beauty, focus on the water front, and historic events. The city center is inside Diocletian's Palace, a massive area with picturesque thin alleyways, more gelateria's (ice cream shops) than one would care to count, and small shops. This palace is only about a 30 seconds walk to a beautiful and large promenade. Parked boats line the seafront, as well as usually a cruise ship or 2 parked not far off at the port.
 
-**![](/assets/img/waterfront.jpg)**
+![](/assets/img/waterfront.png)
 
 One thing to mention is that this is quite the tourist town, especially since GoT became the must-see show on TV. Cruise ships arrive a few times per week at the port, and the town center is immediately filled with people only stopping by for the day. It was amazing to see the complete contrast between the amount of people walking around the city while a cruise ship was parked, and after they left - it was like night and day! That being said, Michelle and I still managed to soak up the best of the city and found some hidden gems that stayed 'tourist free'.
 
@@ -35,7 +35,7 @@ As Michelle and I travel for long periods of time, we don't like eating out too 
 
 While the duration of our stay was in Split, we also managed to make some trips out to more of the country side and take advantage of the beautiful nature that Croatia has to offer. About 1 hour's drive north is the Krka National Park. It's known for its beautiful, almost fake-like green and blue waterfalls. While there are normally plenty of people in the water, this season was unusually cold. But we still jumped in!
 
-**![](/assets/img/krka_waterfalls.jpg)**
+![](/assets/img/krka_waterfalls.png)
 
 Thirty minutes south of Split, and you'll find yourself in Omis. A gorgeous small town with a gorge splitting it right down the middle. We did a zip lining experience here and it was absolutely breathtaking.
 
