@@ -33,7 +33,7 @@ One thing to mention is that this is quite the tourist town, especially since Go
 
 ![Croatian Food](/assets/img/croatia_food-1.png "Croatian Food")
 
-_Truffle pizza (claimed by some to be the best pizza they've have in their life), Seafood Pasta, and a massive seafood platter including Seabass, muscles, langoustines and more._
+_Truffle pizza (claimed by some to be the best pizza they've had in their life), Seafood Pasta, and a massive seafood platter including Seabass, muscles, langoustines, and more._
 
 As Michelle and I travel for long periods of time, we don't like eating out too often. Luckily, there are plenty of market options right near the city center. The green market is a colorful place filled with booths of any vegetables or fruits you'd like, and even some snails if that's your thing. On the other side of the Palace, you'll find a fish market with fish so fresh, you can smell the market from down the road. Just be prepared to gut the fish or de-tail and de-vine the shrimp ;)
 
