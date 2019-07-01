@@ -9,7 +9,7 @@ tags:
 - mediterranean
 - croatia
 - destination
-image: ''
+image: "/assets/img/krka_waterfalls.png"
 display_image_above_post: false
 
 ---
