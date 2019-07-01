@@ -31,15 +31,11 @@ _Split Waterfront_
 
 One thing to mention is that this is quite the tourist town, especially since GoT became the must-see show on TV. Cruise ships arrive a few times per week at the port, and the town center is immediately filled with people only stopping by for the day. It was amazing to see the complete contrast between the amount of people walking around the city while a cruise ship was parked, and after they left - it was like night and day! That being said, Michelle and I still managed to soak up the best of the city and found some hidden gems that stayed 'tourist free'.
 
-The food in Split was exceptional. A combination of being right on the Adriatic Sea, being so close to Italy and with a Roman background, Mediterranean influence, and the power of USD over the local currency, Kuna, make selecting a single restaurant a very difficult task.. you want to eat at all of them! Some of the local dishes include Black Risotto (squid ink for the color), and gnocchi dishes, either with a cheese medley or with seafood. And don't forget to try some of the dishes featuring their locally found truffles. Find the right restaurant and you will even be greeted with some cherry schnapps!
-
 ![Croatian Food](/assets/img/croatia_food-1.png "Croatian Food")
 
 _Truffle pizza (claimed by some to be the best pizza they've have in their life), Seafood Pasta, and a massive seafood platter including Seabass, muscles, langoustines and more._
 
 As Michelle and I travel for long periods of time, we don't like eating out too often. Luckily, there are plenty of market options right near the city center. The green market is a colorful place filled with booths of any vegetables or fruits you'd like, and even some snails if that's your thing. On the other side of the Palace, you'll find a fish market with fish so fresh, you can smell the market from down the road. Just be prepared to gut the fish or de-tail and de-vine the shrimp ;)
-
-While the duration of our stay was in Split, we also managed to make some trips out to more of the country side and take advantage of the beautiful nature that Croatia has to offer. About 1 hour's drive north is the Krka National Park. It's known for its beautiful, almost fake-like green and blue waterfalls. While there are normally plenty of people in the water, this season was unusually cold. But we still jumped in!
 
 ![Krka Waterfalls](/assets/img/krka_waterfalls.png "Krka Waterfalls")
 
