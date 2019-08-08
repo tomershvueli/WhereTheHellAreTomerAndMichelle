@@ -18,7 +18,7 @@ Travel days are stressful, we all know that. And being that we live on the road,
 ### This is when we start taking notice and preparing for our imminent departure.
 
 * Make a list of any things we want to do and haven't done yet, or any things we want to do again before we leave. Restaurants highly considered.
-* Make plans to see anyone we want to see again (family, friends, or acquaintances we met at local CouchSurfing meetups).
+* Make plans to see anyone we want to see again (family, friends, or acquaintances we met at local [CouchSurfing meetups](https://www.couchsurfing.com/events "CouchSurfing")).
 * Start looking at our fridge and non-perishables to make the most out of what we bought and reduce unnecessary waste.
 
 ## 6 - 3 Days Before
@@ -37,25 +37,27 @@ Travel days are stressful, we all know that. And being that we live on the road,
 ## 1 Day Before
 
 * Try and get some snacks/fruits for travel day. Hunger + travel stress = not happy Tomer.
-* Download entertainment to our phones for travel time, books, podcasts, music, and some Netflix shows we may want.
+* Download entertainment to our phones for travel time including books, podcasts, music, and some Netflix shows we may want.
 * Make sure we have check in instructions for our [AirBNB](https://www.airbnb.co.uk/c/tshvueli?currency=USD) (we usually book these months in advance - no need to search around when we land).
 * Confirm travel day plans, transportation, times, etc.
 * Check in to our flight, if applicable.
 * Make a dinner with all of our leftover food!
 * Actually pack.
 * Plug in our laptops and phones overnight.
+* Be sure our passports are in a backpack, not the suitcase. 
 
 ## Travel Day is here!
 
-### We usually book our transport in the mornings. This allows us to get into our destination and still have some of the day to settle in before we are up and at 'em!
+### We usually book our transportation in the mornings. This allows us to get into our destination and still have some of the day to settle in before we are up and at 'em!
 
 * Get up way too early just in case (at least that's my M.O., not Michelle's).
 * Do a final sweep of the house to make sure we haven't left anything behind.
 * Struggle to squish our toiletries bag into our already-full suitcase.
 * [Google Maps](https://maps.google.com "Google Maps"): Download an offline map of the city we're headed to and set our AirBNB's address to 'Home' label. Try to commit the address to memory - probably fail.
+* We like to show up at the airport about 2 hours before boarding, a bit more wiggle room for smaller airports as they might move slower. 
 * Use our Chase Sapphire card's Priority Pass benefit to hang out in any lounges at the airport. This is a nice relief in a (relatively) quiet place with some free munchies and drinks.
-* Try to beat the line to Passport Control by walking fast, stop by the bathroom, end up at the end of line.
-* Get cash out at a nearby ATM using our trusty [Charles Schwab card with ATM-fee rebates](https://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6TNWV7HU). If the option is provided, don't use the ATM's conversion, take cash out in the local currency, this leads to a better conversion rate.
+* Try to beat the line to Passport Control after we land by walking fast, stop by the bathroom, end up at the end of line.
+* Get cash out at a nearby ATM using our trusty [Charles Schwab card with ATM-fee rebates](https://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6TNWV7HU). If the option is provided, don't use the ATM's conversion, take cash out in the local currency - this leads to a better conversion rate.
 * Find transportation to our [AirBNB](https://www.airbnb.co.uk/c/tshvueli?currency=USD). Check in. Plug into the Wifi.
 * If we're at this destination for a month, start unpacking our suitcase into drawers - stop halfway.
 * Walk around in the evening and see what our neighborhood is like and spot interesting things to do.
