@@ -70,3 +70,8 @@ Travel days are stressful, we all know that. And being that we live on the road,
 * Look for interesting things to do in the new city.
 * If we're not 'in town', take public transport to visit downtown and make note of interesting looking places.
 * Check to see if there are interesting AirBNB local experiences we want to sign up for during our stay.
+* Check [nearby coworking spots](https://www.coworker.com/ "Coworker"), locations and prices, for a potential office. 
+
+After this we're able to get into our routine pretty seamlessly and soak in our new home for the next month! 
+
+And there you have it, folks, the perfect transition plan to make for stress-free travel days, tried and tested by yours truly. Safe travels! 
