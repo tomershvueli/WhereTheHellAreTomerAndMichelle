@@ -4,6 +4,7 @@ title: The Perfect Transition Plan - How We Get from A to B, Stress Free
 author: Tomer Shvueli
 categories: journal
 tags:
+- travel
 - how-to
 image: ''
 display_image_above_post: false
