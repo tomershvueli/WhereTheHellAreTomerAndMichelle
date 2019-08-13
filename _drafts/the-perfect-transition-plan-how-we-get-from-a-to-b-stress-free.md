@@ -49,6 +49,10 @@ Travel days are stressful, we all know that. And being that we live on the road,
 * Plug in our laptops and phones overnight.
 * Be sure our passports are in a backpack, not the suitcase.
 
+![Tomer On the Go](/assets/img/tomer_travel_day.jpg "Tomer On the Go")
+
+_Tomer on the go_
+
 ## Travel Day is here!
 
 ### We usually book our transportation in the mornings. This allows us to get into our destination and still have some of the day to settle in before we are up and at 'em!
@@ -81,3 +85,5 @@ The key to Travel Day is to be sure that you're sure of the timetables and where
 After this we're able to get into our routine pretty seamlessly and soak in our new home for the next month!
 
 And there you have it, folks, the almost perfect transition plan to make for stress-free travel days, tried and tested by yours truly. Safe travels!
+
+_NOTE: Some of the links in this post include affiliate or referral links that benefit us. We only endorse items/services that we use and believe in._ 
