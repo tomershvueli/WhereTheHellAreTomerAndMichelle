@@ -62,7 +62,7 @@ _Tomer on the go_
 * Struggle to squish our toiletries bag into our already-full suitcase.
 * [Google Maps](https://maps.google.com "Google Maps"): Download an offline map of the city we're headed to and set our AirBNB's address to 'Home' label. Try to commit the address to memory - probably fail.
 * We like to show up at the airport about 2 hours before boarding, a bit more wiggle room for smaller airports as they might move slower.
-* Use our Chase Sapphire card's Priority Pass benefit to hang out in any lounges at the airport. This is a nice relief in a (relatively) quiet place with some free munchies and drinks.
+* Use our [Chase Sapphire card](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve "Chase Sapphire Reserve")'s [Priority Pass](https://www.prioritypass.com/ "Priority Pass") benefit to hang out in any lounges at the airport. This is a nice relief in a (relatively) quiet place with some free munchies and drinks.
 * Get confused by new time zone, discuss it, count it, give up and use Google.
 * Tomer tries to beat the line at Passport Control after we land by walking fast. Michelle stops by the bathroom. We end up at the end of line. Michelle doesn't care, Tomer is antsy.
 * Get cash out at a nearby ATM using our trusty [Charles Schwab card with ATM-fee rebates](https://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6TNWV7HU). If the option is provided, don't use the ATM's conversion, take cash out in the local currency - this leads to a better conversion rate.
@@ -71,7 +71,7 @@ _Tomer on the go_
 * Walk around in the evening and see what our neighborhood is like and spot interesting things to do.
 * Find local grocery store and get staples for breakfast.
 
-The key to Travel Day is to be sure that you're sure of the timetables and where you need to be when. Once all that is in place, the rest is just going with the flow. 
+**The key to Travel Day is to be sure that you're sure of the timetables and where you need to be when. Once all that is in place, the rest is just going with the flow.** 
 
 ## 1 Day After
 
