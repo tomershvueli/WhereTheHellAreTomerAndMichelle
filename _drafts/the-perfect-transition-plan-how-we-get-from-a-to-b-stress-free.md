@@ -6,8 +6,8 @@ categories: journal
 tags:
 - travel
 - how-to
-image: ''
-display_image_above_post: false
+image: "/assets/img/michelle_working_on_the_train.jpg"
+display_image_above_post: true
 
 ---
 Travel days are stressful, we all know that. And being that we live on the road, we tend to have more travel days than most. So we've come up with a system to help reduce friction where possible, making for an almost seamless transition on travel days!
@@ -23,7 +23,7 @@ Travel days are stressful, we all know that. And being that we live on the road,
 ## 6 - 3 Days Before
 
 * One more grocery run to make sure we have enough meals to last us.
-* One final load of laundry. Forget to include at least 1 pair of undies. 
+* One final load of laundry. Forget to include at least 1 pair of undies.
 * Be sure we have a plan for our travel day in the way of: we know what time to leave our house and how to checkout, how we're getting to the airport/train station, and we have off of work that day if it's on a weekday.
   * To get to our departure point, we try and see if public transportation is available, otherwise, we schedule a cab.
 * Soak in the rest of our stay!
@@ -33,7 +33,7 @@ Travel days are stressful, we all know that. And being that we live on the road,
 ### One comment we get a lot is, 'you must be pretty good at packing by now!' It's true, we've had quite a bit of experience in the past 9 months!
 
 * Potentially make a reservation for the night we get in for a casual, local restaurant. This helps make sure that we can come in stress free and don't need to rush to make dinner.
-* Should start packing. Open suitcase, gaze upon it, contemplate other things, walk away, don't start packing. Berate each other for not starting to pack. 
+* Should start packing. Open suitcase, gaze upon it, contemplate other things, walk away, don't start packing. Berate each other for not starting to pack.
 
 ## 1 Day Before
 
@@ -45,6 +45,7 @@ Travel days are stressful, we all know that. And being that we live on the road,
 * Make a dinner with all of our leftover food!
 * Actually pack, while complaining.
 * Look up basic words in language of destination, pre-school reading list-like, ie. yes, no, thanks, please, hello, goodbye, 1-10 and 'wine please!'
+* Download your tickets to your phone to make sure they're available offline and take screenshots of them just in case. 
 * Plug in our laptops and phones overnight.
 * Be sure our passports are in a backpack, not the suitcase.
 
@@ -52,23 +53,25 @@ Travel days are stressful, we all know that. And being that we live on the road,
 
 ### We usually book our transportation in the mornings. This allows us to get into our destination and still have some of the day to settle in before we are up and at 'em!
 
-* Tomer gets up way too early just in case. Michelle sleeps in until the last moment just in case she won't sleep for the rest of the day (she will anyway). 
+* Tomer gets up way too early just in case. Michelle sleeps in until the last moment just in case she won't sleep for the rest of the day (she will anyway).
 * Do a final sweep of the house to make sure we haven't left anything behind.
 * Struggle to squish our toiletries bag into our already-full suitcase.
 * [Google Maps](https://maps.google.com "Google Maps"): Download an offline map of the city we're headed to and set our AirBNB's address to 'Home' label. Try to commit the address to memory - probably fail.
 * We like to show up at the airport about 2 hours before boarding, a bit more wiggle room for smaller airports as they might move slower.
 * Use our Chase Sapphire card's Priority Pass benefit to hang out in any lounges at the airport. This is a nice relief in a (relatively) quiet place with some free munchies and drinks.
-* Get confused by new time zone, discuss it, count it, give up and use Google. 
-* Tomer tries to beat the line at Passport Control after we land by walking fast. Michelle stops by the bathroom. We end up at the end of line. Michelle doesn't care, Tomer is antsy. 
+* Get confused by new time zone, discuss it, count it, give up and use Google.
+* Tomer tries to beat the line at Passport Control after we land by walking fast. Michelle stops by the bathroom. We end up at the end of line. Michelle doesn't care, Tomer is antsy.
 * Get cash out at a nearby ATM using our trusty [Charles Schwab card with ATM-fee rebates](https://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6TNWV7HU). If the option is provided, don't use the ATM's conversion, take cash out in the local currency - this leads to a better conversion rate.
 * Find transportation to our [AirBNB](https://www.airbnb.co.uk/c/tshvueli?currency=USD). Check in. Plug into the Wifi.
 * If we're at this destination for a month, start unpacking our suitcase into drawers - stop halfway.
 * Walk around in the evening and see what our neighborhood is like and spot interesting things to do.
 * Find local grocery store and get staples for breakfast.
 
+The key to Travel Day is to be sure that you're sure of the timetables and where you need to be when. Once all that is in place, the rest is just going with the flow. 
+
 ## 1 Day After
 
-* Full grocery run. Buy at least 1 wrong item accidentally. Embarrass ourselves trying to use the language and customs. Proudly feel like locals. 
+* Full grocery run. Buy at least 1 wrong item accidentally. Embarrass ourselves trying to use the language and customs. Proudly feel like locals.
 * Check for interesting CouchSurfing meetups coming up.
 * Look for interesting things to do in the new city.
 * If we're not 'in town', take public transport to visit downtown and make note of interesting looking places.
