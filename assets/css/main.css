@@ -328,7 +328,7 @@ pre code {
   background-color: #000;
   font: inherit;
 }
-.spoiler:hover {
+.spoiler:hover, .spoiler:focus, .spoiler:active {
   background-color: transparent;
 }
 
