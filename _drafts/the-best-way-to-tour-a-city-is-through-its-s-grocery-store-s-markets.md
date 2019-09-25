@@ -30,7 +30,7 @@ In Haifa, Israel, what is considered to be the model for coexistence between Jew
 ***
 
 ![Currywurst in Berlin](berlin_currywurst.jpg "Currywurst in Berlin")
-![Spiked drinks in Edinburgh](edinburgh_spiked_drinks.jpg "Spiked drinks in Edinburgh") When Christmas-time finally does roll around, be sure to check out the nearest seasonal market. Whether you're in Edinburgh, walking through with the occasional whif of a warm - and spiked - beverage, having all the types of 'wurst' you can imagine to pick between in Berlin, or coming across mulled wine (Gluehwein) and even mulled beer (Gluhbier) in every corner in Zurich, Christmas markets are not only a thing to do, but _the_ thing to do.
+![Spiked drinks in Edinburgh](edinburgh_spiked_drinks.jpg "Spiked drinks in Edinburgh") When Christmas-time finally does roll around, be sure to check out the nearest seasonal market. Whether you're in Edinburgh, walking through with the occasional whiff of a warm - and spiked - beverage, having all the types of 'wurst' you can imagine to pick between in Berlin, or coming across mulled wine (Gluehwein) and even mulled beer (Gluhbier) in every corner in Zurich, Christmas markets are not only a thing to do, but _the_ thing to do.
 
 ***
 
