@@ -7,7 +7,7 @@ tags:
 - markets
 - journal
 - travel
-image: ''
+image: "/assets/img/budapest_central_market.jpg"
 display_image_above_post: false
 
 ---
