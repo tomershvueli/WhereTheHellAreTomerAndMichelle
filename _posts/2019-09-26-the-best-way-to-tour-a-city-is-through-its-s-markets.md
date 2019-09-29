@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Way to Tour a City Is Through Its G̶r̶o̶c̶e̶r̶y̶ ̶S̶t̶o̶r̶e̶s Markets
+title: The Best Way to Tour a City Is Through Its G̶r̶o̶c̶e̶r̶y̶ ̶S̶t̶o̶r̶e̶ ̶ Markets
 author: Tomer S
 categories: journal
 tags:
