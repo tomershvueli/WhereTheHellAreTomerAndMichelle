@@ -8,12 +8,10 @@ tags:
 - gear
 - gear guide
 - journal
-image: ''
+image: "/assets/img/gear_guide_compression_cubes.png"
 display_image_above_post: false
 
 ---
-# Gear Guide
-
 Abraham Lincoln once said that given 6 hours and an axe to cut down a tree, he would spend the first 4 hours sharpening the axe. 
 
 We're only as good and productive as our tools enable to us to be. And given the fact that we try to stay as light on our feet as possible, we are quite picky with the tools that we choose to lug around from destination to destination. Here are the tools that we think are imperative for us to live life on the road. 
@@ -26,6 +24,9 @@ It's important to note that this isn't all we travel with, just the ones worth m
 
 - [Compression/packing cubes](https://amzn.to/33IEWDp): These handy little fabric zipped cubes are great for organizing your clothes in your suitcase. The compression ones specifically can save you quite a bit of space if you make good use of them, just remember that they won't take away from the weight you're bringing on board ;)
 ![Compression Cubes](/assets/img/gear_guide_compression_cubes.png "Compression Cubes")
+
+_Compression Cubes Doing What They're Good At!_
+
 - [HikePro Foldable Daypack](https://amzn.to/35OZ6O2): We like having a smaller backpack that we can take for a walk out about the town, to bring some sunscreen or water, or to stash anything we might buy. This used to be a drawstring bag for us, but we quickly wanted to upgrade. This HikePro is the real MVP! It can fold up into a little pocket, has multiple sections and even a wallet pocket, is water resistant (though don't expect to be caught in a rain storm and for your items to stay dry), and is extremely light and comfortable on your back. A must for city travelers! 
 - Rain jacket: Weighing in at almost nothing and a lifesaver at times, finding a good rain jacket is imperative so that you don't miss out on adventures in any weather. I personally carry around an Eddie Bauer one that folds into itself to save on space as well. 
 - [AllBirds](https://www.allbirds.com/collections/mens-runners): It's no surprise that this wool-based shoe company took off like wildfire. The shoes are unbelievably comfortable for everyday city walking, light running, or even some basic hiking. And, they're machine washable. 
@@ -39,6 +40,9 @@ It's important to note that this isn't all we travel with, just the ones worth m
 
 - Travel credit card of choice: [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve). Before going on a long oversea adventure, it's important to pick a travel credit card that suits your needs. For us, we knew we were going to be spending a lot of money on travel (Airbnb, Uber's, and flights fall into this category), we enjoy eating out every so often, and we wanted to maximize the points we get and trade those in for more travel. For us, the Chase Sapphire Reserve made the most sense, even with its annual fee (most of which gets reimbursed for travel at the beginning of every year). A nice benefit: we get a Priority Pass for airport lounges when traveling. Using this, we try to show up a bit earlier than usual at airports so we have some time to enjoy the lounge and munch on the free snacks and drinks there. Bonus: This card is made of titanium and feels heavy and sturdy, which makes it a great conversation starter when checking out! 
 ![Chase Sapphire Reserve](/assets/img/gear_guide_chase_sapphire_reserve.jpg "Chase Sapphire Reserve")
+
+_The Titanium Chase Sapphire Reserve Card_
+
 - [Charles Schwab bank account & debit card](http://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6TNWV7HU): While we are able to use a credit card almost everywhere we go, we always take out cash the first opportunity we get when we arrive in a new place - it's better to be safe and prepared, than sorry and not be able to pay for something. The Charles Schwab debit card will rebate any ATM fees you'll come across internationally. I used to wince whenever I saw the ATM fee listed and try to convince myself it's simply the 'cost of doing business', but not anymore! At the end of every month, we get a reimbusement from Schwab for all the ATM fees we paid for that month. 
 
 ## Tech
@@ -59,12 +63,18 @@ It's important to note that this isn't all we travel with, just the ones worth m
 - Uber: Yes, they had a very bad 2017 and are still trying to recover their public image. When we're in the US, we try to use Lyft. But Uber has a much larger international presense and is sometimes safer and cheaper than local cabs. Uber tuktuk can be a real lifesaver so you don't have to negotiate with every driver that tries to overcharge. Some areas don't take card but they still do a set price before hand. 
 - [Nike Run Culb](https://www.nike.com/us/en_us/c/running/nike-run-club) & [Nike Training Club](https://www.nike.com/us/en_us/c/nike-plus/training-app) apps: These 2 apps are key to how we've been staying healthy while on the road (another post about this to come soon!). More than simply offering different workouts to do (both guided runs and even home workouts with no equipment), it also tracks everything which helps you stay motivated, and it gamifies your working out with achievements. Michelle and I have become regular users and big fans.
 ![Nike Rub Club & Nike Training Club](/assets/img/gear_guide_nike_apps.png "Nike Rub Club & Nike Training Club")
+
+_Screenshots from the Nike Apps, I've been working hard the past few months!_
+
 - Apple Pay or Google Pay: A lot of Europe uses 'contact-less' payment solutions. While the US is still catching up, Apple Pay or Google Pay will allow quick access to payments, and let you avoid awkward wallet-fumbling and signing for receipts. 
 
 ## Misc
 
 - [Airbnb](https://www.airbnb.com/c/tshvueli?currency=USD): Even before this Gear Guide, we must've mentioned Airbnb at least a dozen times. It's no secret that the once-startup has made life so much easier for digital nomads and travelers all over the world. Michelle and I joke that our monthly expenses haven't changed all that much, we now simply pay rent to Airbnb instead of a single land lord! Also, if you become a 'loyal customer', when contacting Airbnb support, they'll be extra helpful and usually side with you and help you out of a dispute with a host. 
 ![Previous Airbnb's We've Stayed At](/assets/img/gear_guide_previous_airbnbs.png "Previous Airbnb's We've Stayed At")
+
+_Some of the previous Airbnb's We've Stayed At_
+
 - [Google Fi phone service](https://g.co/fi/r/47R707): I'm not a huge fan of Google as a company - or business model - and much prefer to use different services or [self-host](https://brillicity.com/self-hosted/). However, even I have to admit that Google Fi has made our lives 1000 times easier when on the road. We have unlimited international data. That's all you really need to know (though of course texts and calls are included as well - though we still mostly use WhatsApp or Messenger). No messing around with local SIM cards, different phone numbers, yuch! One phone bill for the 2 of us every month, and we've had pretty steady coverage just about everywhere we've been (except for Italy for some reason??). I consider myself a privacy nut, but as a digital nomad, Google Fi is too cheap and too convenient to not use. 
 - [Fire sleeve](https://amzn.to/2VTnCZC): We all need to be able to have our passports, ID's, spare cash and the like with us. I sleep at night and go out during the day feeling slightly safer knowing that our valuables are safe. And no, we haven't tested out if this is *actually* fireproof, but we'll settle for the positive reviews on Amazon!
 - Passport wallet: With both of us walking through the airport, we like having a passport wallet that one of us, usually Michelle, is in charge of. All the things in one place. 
