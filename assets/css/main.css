@@ -332,6 +332,10 @@ pre code {
   background-color: transparent;
 }
 
+.strike-through {
+  text-decoration: line-through;
+}
+
 /* Gist via GitHub Pages */
 .gist .gist-file {
   font-family: "Source Code Pro", monospace !important;
